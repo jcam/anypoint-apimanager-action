@@ -1,0 +1,6 @@
+name: 'Anypoint API Manager'
+description: 'Update API Manager with correct version and tag'
+author: 'Jesse Campbell, MMS'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
